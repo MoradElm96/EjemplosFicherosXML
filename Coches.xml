@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><coches>
+    <coche id="0">
+        <marca>bmw</marca>
+        <modelo>m3</modelo>
+        <color>negro</color>
+        <matriculacion>2005</matriculacion>
+    </coche>
+    <coche id="1">
+        <marca>seat</marca>
+        <modelo>ibiza</modelo>
+        <color>azul</color>
+        <matriculacion>2015</matriculacion>
+    </coche>
+    <coche id="2">
+        <marca>nissan</marca>
+        <modelo>skyline</modelo>
+        <color>naranja</color>
+        <matriculacion>2001</matriculacion>
+    </coche>
+</coches>
